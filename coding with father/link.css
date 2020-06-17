@@ -1,0 +1,45 @@
+body{
+    background-color: thistle;
+}
+h1{
+    background-color: teal;
+    font-size: 50px;
+    border:4px solid rgb(20,30,40);
+ color:LemonChiffon
+}
+h2{
+    background-color: rgb(179, 224, 13);
+   
+    border:4px solid rgb(85, 5, 5);
+ color:rgb(235, 85, 26);
+ position: absolute;top:120px;
+}
+div.box{
+    text-align: center;
+    border:20px solid rgb(231, 39, 5);
+    padding: 30px;
+    position:absolute; top:6100px;right:400px
+   }
+h3{
+    color: brown;
+    font-size: 50px;
+    font-family:  Cochin;
+    padding: 20px;
+position: absolute;top:6500px;
+
+}
+h6{
+    color: rgb(120, 9, 124);
+    font-size: 120px;
+    font-family:   Courier;
+    padding: 20px;
+    background-color: rgb(153, 241, 10);
+    border:20px solid rgb(101, 150, 11);
+position: absolute;top:6380px;left:120px
+
+
+
+}
+
+
+
